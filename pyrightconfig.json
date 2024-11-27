@@ -1,0 +1,16 @@
+{
+    "venvPath": "/home/adam/repos/employee_scheduler",
+    "venv": "venv",
+    "include": [
+        "/home/adam/repos/employee_scheduler"
+    ],
+    "exclude": [
+        "**/node_modules",
+        "**/__pycache__",
+        "**/venv"
+    ],
+    "reportMissingImports": false,
+    "reportMissingModuleSource": false,
+    "pythonVersion": "3.8",
+    "pythonPlatform": "Linux"
+} 
